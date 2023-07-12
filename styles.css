@@ -1,0 +1,89 @@
+body{
+    margin: 0;
+}
+
+.banner{
+    position: relative;
+    right: 15px;
+}
+
+.brand-text{
+    position: relative;
+    right: 40px;
+    text-decoration: none;
+    font-family: 'Dosis', sans-serif;
+}
+
+.banner-text {
+    font-family: 'Fasthand', cursive;
+}
+
+.d-down {
+    font-family: 'Dosis', sans-serif;
+}
+
+.img1 {
+    float: left;
+    padding: 40px;
+}
+
+.img-text {
+    font-family: 'Dosis', sans-serif;
+    padding-top: 35px;
+}
+
+#intro {
+    background-color: #EEEEEE;
+    padding: 40px;
+}
+
+
+#testimonials {
+    padding: 150px;
+    background-color: #FAF0E4;
+}     
+
+.testimonial-text {
+    text-align: center;
+    padding-bottom: 5%;
+}
+
+.testimonial-image {
+    width: 100%;
+}
+
+#card-mods {
+    padding: 100px;
+}
+
+.card-img-top {
+    height: 70%;
+}
+
+.card-text {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.card-title {
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+}
+
+#card-mods {
+    background-color: #606C5D;
+}
+
+#footer {
+    background-color: #5C8984;
+    padding: 10%;
+    text-align: center;
+}
+
+.Copyright {
+    font-family: 'Dosis', sans-serif;
+    padding: 1%;
+}
+
+.footer-icon {
+    padding: 0.6%;
+  }
